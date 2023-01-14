@@ -3,7 +3,6 @@ module github.com/LKRCharon/naive-tiktok
 go 1.19
 
 require (
-	github.com/RaymondCode/simple-demo v0.0.0-20230109111057-5031aee01508
 	github.com/gavv/httpexpect/v2 v2.8.0
 	github.com/gin-gonic/gin v1.8.2
 	github.com/stretchr/testify v1.8.1
